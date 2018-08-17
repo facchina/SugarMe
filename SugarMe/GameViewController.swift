@@ -11,7 +11,7 @@ import QuartzCore
 import SceneKit
 
 class GameViewController: UIViewController {
-    var teste = "oi"
+    var teste = "bye"
     override func viewDidLoad() {
         super.viewDidLoad()
         
